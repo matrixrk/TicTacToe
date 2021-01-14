@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b6f62c97e592c64f8abdbd8553d045d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverPanel: {fileID: 3454389320993241035, guid: b1274b966f23f194a883791b27b4aabf,
+      type: 3}
+  - gameOverText: {instanceID: 0}
+  - restartButton: {fileID: 2459419669380047257, guid: 287d7205b551d1948af1a625e623b5ab,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
